@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MovieSearch</string>
+    <string name="action_settings">Settings</string>
+    <string name="search_title">Buscar Filmes</string>
+    <string name="no_internet">Você precisa estar conectado a internet!</string>
+    <string name="search_hint">Nome do filme...</string>
+    <string name="nda">n/a</string>
+    <string name="no_movie">Filme não encontrado !</string>
+    <string name="search_validation">Pesquise por um filme antes de adicionar</string>
+</resources>
