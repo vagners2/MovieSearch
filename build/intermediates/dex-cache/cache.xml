@@ -1,2 +1,152 @@
 <?xml version="1.0" encoding="utf-8"?>
-<items version="2" />
+<items version="2" >
+
+    <item
+        jar="/Users/vagnerss/Desktop/GitHub/MovieSearch/app/build/intermediates/exploded-aar/io.realm/realm-android-library/1.1.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="db73bb0b63ec60c9467b564baaf7c1e5d469c9f2">
+        <dex dex="/Users/vagnerss/Desktop/GitHub/MovieSearch/app/build/intermediates/transforms/dex/debug/folders/1000/10/io.realm-realm-android-library-1.1.0_0875248a119f2ffa89bf257dcfc38ee5a8c8d93d/classes.dex" />
+    </item>
+    <item
+        jar="/Users/vagnerss/Desktop/GitHub/MovieSearch/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="/Users/vagnerss/Desktop/GitHub/MovieSearch/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-23.4.0_bbb79d15a2bc8fc253b5c3b421ed2df8e9fc77d3/classes.dex" />
+    </item>
+    <item
+        jar="/Users/vagnerss/.gradle/caches/modules-2/files-2.1/io.realm/realm-annotations/1.1.0/4459414c171c7b60cdc2f089ffa72d19d773835e/realm-annotations-1.1.0.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="4459414c171c7b60cdc2f089ffa72d19d773835e">
+        <dex dex="/Users/vagnerss/Desktop/GitHub/MovieSearch/app/build/intermediates/transforms/dex/debug/folders/1000/10/realm-annotations-1.1.0_0dc61e696f58b0853ad149d4288de914745fa4a8/classes.dex" />
+    </item>
+    <item
+        jar="/Users/vagnerss/Desktop/GitHub/MovieSearch/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="/Users/vagnerss/Desktop/GitHub/MovieSearch/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-23.4.0_2c14287a7c5be7829d3b03ef0e05d258c2d3ece0/classes.dex" />
+    </item>
+    <item
+        jar="/Users/vagnerss/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/retrofit/2.1.0/2de7cd8b95b7021b1d597f049bcb422055119f2c/retrofit-2.1.0.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="2de7cd8b95b7021b1d597f049bcb422055119f2c">
+        <dex dex="/Users/vagnerss/Desktop/GitHub/MovieSearch/app/build/intermediates/transforms/dex/debug/folders/1000/10/retrofit-2.1.0_afaaa46e0f63a8610e97815ed13f43af9c356913/classes.dex" />
+    </item>
+    <item
+        jar="/Users/vagnerss/.gradle/caches/modules-2/files-2.1/com.android.support/support-annotations/24.0.0/2943c74db6d4346ab8c6531adac91fa05c137c40/support-annotations-24.0.0.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="2943c74db6d4346ab8c6531adac91fa05c137c40">
+        <dex dex="/Users/vagnerss/Desktop/GitHub/MovieSearch/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-24.0.0_10f3d3af491c7956107f74154a1705892f17d58b/classes.dex" />
+    </item>
+    <item
+        jar="/Users/vagnerss/.gradle/caches/modules-2/files-2.1/com.jakewharton/butterknife-annotations/8.2.1/d6f54d76edfbe779a50a8636b10fd3f555d8f780/butterknife-annotations-8.2.1.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="d6f54d76edfbe779a50a8636b10fd3f555d8f780">
+        <dex dex="/Users/vagnerss/Desktop/GitHub/MovieSearch/app/build/intermediates/transforms/dex/debug/folders/1000/10/butterknife-annotations-8.2.1_ed3bc784a5ac0e6233968ffe79a9e6fc7fbbc56c/classes.dex" />
+    </item>
+    <item
+        jar="/Users/vagnerss/Desktop/GitHub/MovieSearch/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="/Users/vagnerss/Desktop/GitHub/MovieSearch/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-23.4.0_08d0aeb4507f0460cb42f0c7af2022287fcace49/classes.dex" />
+    </item>
+    <item
+        jar="/Users/vagnerss/.gradle/caches/modules-2/files-2.1/com.squareup.picasso/picasso/2.5.2/7446d06ec8d4f7ffcc53f1da37c95f200dcb9387/picasso-2.5.2.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="/Users/vagnerss/Desktop/GitHub/MovieSearch/app/build/intermediates/transforms/dex/debug/folders/1000/10/picasso-2.5.2_0ca33ef355eee81737183818567618abda4a41fb/classes.dex" />
+    </item>
+    <item
+        jar="/Users/vagnerss/Desktop/GitHub/MovieSearch/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="c443784a556f407d52e6a5def582ce989a36da04">
+        <dex dex="/Users/vagnerss/Desktop/GitHub/MovieSearch/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_bfbf5118715d235679de4b51ecd685e70930f397/classes.dex" />
+    </item>
+    <item
+        jar="/Users/vagnerss/Desktop/GitHub/MovieSearch/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="/Users/vagnerss/Desktop/GitHub/MovieSearch/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-23.4.0_e8fcd21fa292f07dc0e8adfc59b85763dd8d4377/classes.dex" />
+    </item>
+    <item
+        jar="/Users/vagnerss/Desktop/GitHub/MovieSearch/app/build/intermediates/exploded-aar/com.android.support/design/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="5326d9a850d491714fef8cbfaa9ea3416f0bf0d2">
+        <dex dex="/Users/vagnerss/Desktop/GitHub/MovieSearch/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-23.4.0_08ef723c6e8193912c920b0776ceb7017e62d07c/classes.dex" />
+    </item>
+    <item
+        jar="/Users/vagnerss/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.3.0/2b802460eea20f8f2ad9c08c74e0f14718e88aa9/okhttp-3.3.0.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="2b802460eea20f8f2ad9c08c74e0f14718e88aa9">
+        <dex dex="/Users/vagnerss/Desktop/GitHub/MovieSearch/app/build/intermediates/transforms/dex/debug/folders/1000/10/okhttp-3.3.0_f5691670107e6cb16a8cedd4f99f6836e8fa4523/classes.dex" />
+    </item>
+    <item
+        jar="/Users/vagnerss/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.8.0/5ea7af56cc7c567ed9856d99efb30740e9b17ff/okio-1.8.0.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="05ea7af56cc7c567ed9856d99efb30740e9b17ff">
+        <dex dex="/Users/vagnerss/Desktop/GitHub/MovieSearch/app/build/intermediates/transforms/dex/debug/folders/1000/10/okio-1.8.0_205cafc75220b2c7fdde2466b197ed4824f9b817/classes.dex" />
+    </item>
+    <item
+        jar="/Users/vagnerss/Desktop/GitHub/MovieSearch/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/libs/internal_impl-23.4.0.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="/Users/vagnerss/Desktop/GitHub/MovieSearch/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.4.0_c72cb244dd1430c887d6d3722385f4436b649f5a/classes.dex" />
+    </item>
+    <item
+        jar="/Users/vagnerss/Desktop/GitHub/MovieSearch/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="ec75036c3c52e451d0cde50a5aedaf5fd32354a0">
+        <dex dex="/Users/vagnerss/Desktop/GitHub/MovieSearch/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-23.4.0_e5fd3cd73a35c09110f6abf29e10b59dfceaaf7a/classes.dex" />
+    </item>
+    <item
+        jar="/Users/vagnerss/Desktop/GitHub/MovieSearch/app/build/intermediates/exploded-aar/com.getkeepsafe.relinker/relinker/1.2.1/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="264f0bc4c0680cfe7a60fea1f12a43f1ab48e7c8">
+        <dex dex="/Users/vagnerss/Desktop/GitHub/MovieSearch/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.getkeepsafe.relinker-relinker-1.2.1_ab2e5bc5a82d854d72661af41cc43733f95fad55/classes.dex" />
+    </item>
+    <item
+        jar="/Users/vagnerss/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.7/751f548c85fa49f330cecbb1875893f971b33c4e/gson-2.7.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="751f548c85fa49f330cecbb1875893f971b33c4e">
+        <dex dex="/Users/vagnerss/Desktop/GitHub/MovieSearch/app/build/intermediates/transforms/dex/debug/folders/1000/10/gson-2.7_d44c940bf73ca823eb55cef1686d33cb1f73ef01/classes.dex" />
+    </item>
+    <item
+        jar="/Users/vagnerss/Desktop/GitHub/MovieSearch/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="6bab52fae4ecb84f33f0400de099b8a8593ea1e1">
+        <dex dex="/Users/vagnerss/Desktop/GitHub/MovieSearch/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_895630ebe2867d452836767577a547e07a5072c0/classes.dex" />
+    </item>
+    <item
+        jar="/Users/vagnerss/Desktop/GitHub/MovieSearch/app/build/intermediates/exploded-aar/com.jakewharton/butterknife/8.2.1/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="ca5e58104f56f918f0fb3a5b1b371ab599ae56b2">
+        <dex dex="/Users/vagnerss/Desktop/GitHub/MovieSearch/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.jakewharton-butterknife-8.2.1_d67d432d9a07f09912278a662797645a7097c5e3/classes.dex" />
+    </item>
+    <item
+        jar="/Users/vagnerss/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/converter-gson/2.1.0/aa557d71ead91cbf26e0c316a0f593d168303309/converter-gson-2.1.0.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="aa557d71ead91cbf26e0c316a0f593d168303309">
+        <dex dex="/Users/vagnerss/Desktop/GitHub/MovieSearch/app/build/intermediates/transforms/dex/debug/folders/1000/10/converter-gson-2.1.0_fc94ff6e11f0afb64cfbd6162548fcdb88525b6a/classes.dex" />
+    </item>
+
+</items>
