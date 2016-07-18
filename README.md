@@ -4,7 +4,7 @@ App de exemplo para consulta de Filmes usando a API Rest
 (http://www.omdbapi.com)
 
 Apk Compilada:
-<a href="release/moviesearch.apk">moviesearch.apk</a> 
+<a href="release/">moviesearch.apk</a> 
 
 Pre-requisites
 --------------
