@@ -7,7 +7,7 @@ Pre-requisites
 --------------
 
 - Android SDK v23
-- Android Build Tools v23.0.3
+- Android Build Tools v24.0.0
 - Android Support Repository
 - Android Studio 2.1.2
 
